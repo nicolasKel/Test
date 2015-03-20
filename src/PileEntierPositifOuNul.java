@@ -17,13 +17,13 @@ public class PileEntierPositifOuNul
 		this.pile = new int[taillePileMax];
 	}
 	
+	
 	public PileEntierPositifOuNul(int taille) 
 	{
 		if (taille > 0)
 		{
 		this.taillePileMax = taille;
 		}
-		
 		else
 		{
 			this.taillePileMax = 5;
