@@ -17,6 +17,7 @@ public class PileEntierPositifOuNul
 		this.pile = new int[taillePileMax];
 	}
 	
+	//une édition qui sert à rien ^^
 	
 	public PileEntierPositifOuNul(int taille) 
 	{
